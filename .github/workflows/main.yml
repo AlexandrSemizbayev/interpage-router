@@ -2,6 +2,8 @@ name: Publish Package
 
 on:
   push:
+    branches:
+      - 'production'
     tags:
       - 'v*'
 
@@ -11,7 +13,6 @@ permissions:
 
 jobs:
   publish:
-    environment: production
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
