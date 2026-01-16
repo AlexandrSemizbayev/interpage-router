@@ -2,6 +2,10 @@
   "name": "interpage-router",
   "private": false,
   "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandrSemizbayev/interpage-router"
+  },
   "type": "module",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.es.js",
