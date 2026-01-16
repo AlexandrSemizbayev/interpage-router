@@ -137,4 +137,3 @@ export interface RouteWithProps<PROPS, PARAMS> extends IRouteParams<PROPS, PARAM
   props: PROPS;
 }
 ```
-
