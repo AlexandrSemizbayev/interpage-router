@@ -1,5 +1,7 @@
 # Interpage router for React
 
+[Link to NPM Repository](https://www.npmjs.com/package/interpage-router)
+
 ### Interpage router for React is a simple but very helpful tool, created during struggles with another router's solutions published in npm repository. What the author wanted, was just a simple routing, with ability to disable required layouts. Also, the goal was to create a router that doesn't require huge documentation. Simply go this way or that way.
 
 <div align="center">
@@ -94,7 +96,7 @@ export default function App() {
 }
 
 ```
-### ./pages/Error.(tsx||jsx)
+### ./pages/Test.(tsx||jsx)
 ```tsx
 import { RouterContext } from "../../router";
 import { type FC } from "react";
@@ -137,3 +139,4 @@ export interface RouteWithProps<PROPS, PARAMS> extends IRouteParams<PROPS, PARAM
   props: PROPS;
 }
 ```
+
