@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/AlexandrSemizbayev/interpage-router"
   },
+  "homepage": "https://alexandr-semizbayev.vercel.app",
   "type": "module",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.es.js",
