@@ -1,6 +1,12 @@
 # Interpage router for React
 
-### Interpage router for React is a simple but very helpful tool, created during struggles with another router's solutions published in npm repository. What the author wanted, was just a simple routing, with ability to disable required layouts. So, here we are, the package you are looking at, can do things simple. Just initialize it and wrap your App with it!
+### Interpage router for React is a simple but very helpful tool, created during struggles with another router's solutions published in npm repository. What the author wanted, was just a simple routing, with ability to disable required layouts. Also, the goal was to create a router that doesn't require huge documentation. Simply go this way or that way.
+
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3gya2d2Y3IweTJscmRid2NlcnR5dGg1MWJyZmFkd2NmajFvbzFiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pQRNYhrLrO7bkS6P1Y/giphy.gif" alt="animated image with a pinguin choosing a way to go"/>
+</div>
+
+### So, here we are, the package you are looking at, can do things simple. Just initialize it and wrap your App with it!
 
 ```sh
   npm i interpage-router
